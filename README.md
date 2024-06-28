@@ -60,7 +60,9 @@ The dataset is made up of detailed records from three coffee shops over a period
 5. Number of transactions and revenue by product_type and filtered to the top 15(by transaction)
 - Rows: product_type
 - Values: Count of Transaction_id, Sum of Revenue
-- This analysis showed the count of transactions and Sum of Revenue per product type by transaction
+- This analysis showed the count of transactions and Sum of Revenue per product type by transaction.
+- 
+  ![](Dashboard.PNG)
 
   
 

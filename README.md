@@ -61,10 +61,12 @@ The dataset is made up of detailed records from three coffee shops over a period
 - Rows: product_type
 - Values: Count of Transaction_id, Sum of Revenue
 - This analysis showed the count of transactions and Sum of Revenue per product type by transaction.
-  
-  ![](Pivot_Table.PNG.PNG)
+ 
+   ![](Pivot_Table.PNG.PNG)
+   ## Visualization
   ![](Dashboard.PNG)
   
+
 
   
 

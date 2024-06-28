@@ -39,5 +39,30 @@ The dataset is made up of detailed records from three coffee shops over a period
   4.  A column for weekday was added using =WEEKDAY(B2,2)
   5.  A column for WeekDay Name was added using =TEXT(B2,"DDDD")
   6.  A column for Hour using =HOUR(C2)
+  ## Analysis and Summaries With Pivot Tables
   
+  
+1. Rows: Month
+- Values: Sum of unit price * transaction qty
+- This analysis showed the total Revenue revenue generated in each Month.
+2.Total Transaction per Day of Week
+- Rows: WeekdayName
+- Values: Count of Transaction id
+- This analysis showed the count of transactions each week day.
+3. Total Transaction by hour of Day
+- Rows: Hour
+- Values: Count of Transaction id
+- This analysis showed the count of transactions each week day.
+4. Total Transaction per product category
+- Rows: product_category
+- Values: Count of Transaction_id
+- This analysis  showed the count of transactions per product_category .
+5. Number of transactions and revenue by product_type and filtered to the top 15(by transaction)
+- Rows: product_type
+- Values: Count of Transaction_id, Sum of Revenue
+- This analysis showed the count of transactions and Sum of Revenue per product type by transaction
+
+  
+
+
 

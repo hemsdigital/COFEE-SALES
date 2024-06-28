@@ -65,8 +65,16 @@ The dataset is made up of detailed records from three coffee shops over a period
    ![](Pivot_Table.PNG.PNG)
    ## Visualization
   ![](Dashboard.PNG)
-  
-
+  ## Results/ Findings
+1. The dataset of Coffee and Tea Shops shows a great Trend of Revenue From Month of January to June. In the month of 
+   June the highest Revenue was recorded while in Febuary the lowest revenue was recorded.The revenue started 
+   increasing from March, but has a strong growth from April to June.There was a big renge of growth noted in the 
+   month of May and June.
+2.  The Data shows the weekday transaction from Sunday to Saturday, the trend is that Monday records the highest 
+    sales, followed by Thursday and friday respectivly. There was a slight fluctation on Tuesday and 
+    Wednesday.Saturday records the lowest sales.
+3. From the data, Sales are distributed throughout the early morning hours, starting from 7:06 AM to 8:17 AM. The high 
+   sales starts at 7.00AM and gets to it's peak at 10.00 Am.
 
   
 

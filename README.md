@@ -73,8 +73,9 @@ The dataset is made up of detailed records from three coffee shops over a period
 2.  The Data shows the weekday transaction from Sunday to Saturday, the trend is that Monday records the highest 
     sales, followed by Thursday and friday respectivly. There was a slight fluctation on Tuesday and 
     Wednesday.Saturday records the lowest sales.
-3. From the data, Sales are distributed throughout the early morning hours, starting from 7:06 AM to 8:17 AM. The high 
-   sales starts at 7.00AM and gets to it's peak at 10.00 Am.
+3. From thecdata, Sales are distributed throughout the early morning hours, starting from 7:06 AM to 8:17 AM. The high 
+   sales starts at 7.00AM and gets to it's peak at 10.00 Am.The Pattern is that transactions are high in the morning and less in the evening.
+4. Based on Product category, coffee is the most popular category, followed by Tea. They contribute greatly to the general revenue. 
 
   
 

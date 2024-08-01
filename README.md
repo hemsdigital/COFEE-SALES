@@ -21,7 +21,7 @@ The dataset is made up of detailed records from three coffee shops over a period
   -  Data collection, sorting snd filtering.
   -  Remove Duplicate
   -  Text Functions
-	-  Date and Time Functions
+  -  Date and Time Functions
   -  Data Validation and Analysis
   -  Pivot Tables
   -  Pivot Charts:
@@ -40,8 +40,7 @@ The dataset is made up of detailed records from three coffee shops over a period
   5.  A column for WeekDay Name was added using =TEXT(B2,"DDDD")
   6.  A column for Hour using =HOUR(C2)
   ## Analysis and Summaries With Pivot Tables
-  
-  
+
 1. Rows: Month
 - Values: Sum of unit price * transaction qty
 - This analysis showed the total Revenue revenue generated in each Month.
@@ -62,7 +61,7 @@ The dataset is made up of detailed records from three coffee shops over a period
 - Values: Count of Transaction_id, Sum of Revenue
 - This analysis showed the count of transactions and Sum of Revenue per product type by transaction.
  
-   ![](Pivot_Table.PNG.PNG)
+   ![](Pivot_Table.PNG)
    ## Visualization
   ![](Dashboard.PNG)
   ## Results/ Findings
